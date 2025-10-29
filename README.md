@@ -7,7 +7,7 @@ Sobre mim:
 
 - 💻 Web Developer
 - ⚛️ JavaScript | React
-- 
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 - 🚀 Estou em busca da minha primeira oportunidade na área de Tecnologia.
 
 <!--
