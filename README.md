@@ -10,7 +10,7 @@ Sobre mim:
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 - 🚀 Estou em busca da minha primeira oportunidade na área de Tecnologia.
 - 📈 Sempre buscando evoluir e entender como transformar código em soluções que facilitam a vida das pessoas.
-- 🔗 Você pode me encontrar em: https://www.linkedin.com/in/cesar-s-45a694323/
+- 🔗 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/cesar-s-45a694323/)
 <!--
 **cesar-seixas/cesar-seixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
