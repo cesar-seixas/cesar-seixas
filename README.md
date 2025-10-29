@@ -6,7 +6,7 @@ ________________________________________________________________________________
 Sobre mim:
 
 - 💻 Graduando em Análise e Desenvolvimento de Sistemas
-- ⚛️ JavaScript|React
+- ⚛️ JavaScript | React
 - 🚀 Estou em busca da minha primeira oportunidade na área de Tecnologia.
 
 <!--
