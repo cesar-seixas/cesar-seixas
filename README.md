@@ -9,7 +9,8 @@ Sobre mim:
 - ⚛️ JavaScript | React
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
 - 🚀 Estou em busca da minha primeira oportunidade na área de Tecnologia.
-
+- 📈
+- 🔗
 <!--
 **cesar-seixas/cesar-seixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
