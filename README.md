@@ -7,7 +7,7 @@ Sobre mim:
 
 - 💻 Desenvolvedor Web
 - ⚛️ JavaScript | HTML | CSS 
-- 🎓 Cursando 2º período em Análise e Desenvolvimento de Sistemas.
+- 🎓 Cursando 3º/5º período em Análise e Desenvolvimento de Sistemas.
 - 🚀 Estou em busca da minha primeira oportunidade na área de Tecnologia.
 - 📈 Sempre buscando evoluir e entender como transformar código em soluções que facilitam a vida das pessoas.
 - 🔗 Você pode me encontrar em: [LinkedIn](https://www.linkedin.com/in/cesar-s-45a694323/)
